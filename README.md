@@ -1,6 +1,4 @@
 
-This is a professionally structured, high-impact README for your **RBF Securities Pricing Analytics Platform**. It is designed to impress recruiters and technical leads by emphasizing architecture, data modeling, and business value.
-
 -----
 
 # RBF - EOD Securities Pricing Analytics Platform
