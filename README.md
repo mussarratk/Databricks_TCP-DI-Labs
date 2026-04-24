@@ -28,6 +28,8 @@ The platform follows a modular design pattern, ensuring a clear separation of co
 3.  **Data Warehouse (Snowflake):** A multi-layered architecture transforms raw data into high-performance analytical models.
 4.  **Orchestration:** **Apache Airflow (Dockerized)** manages task dependencies, incremental loads, and error handling.
 5.  **Analytics:** Curated **Subject Area (SA)** views are exposed to **Power BI** for executive and tactical decision-making.
+   
+<img width="835" height="465" alt="image" src="https://github.com/user-attachments/assets/2def4b06-8780-48f5-8426-56a79a344349" />
 
 -----
 
@@ -63,6 +65,9 @@ The **Subject Area (SA)** layer provides high-value datasets for the following d
   * **Market Liquidity:** Tracking sector-wise liquidity contribution and ETF trends.
   * **Performance Monitoring:** Rolling 30-day returns and volatility for watchlists.
   * **Volume Analysis:** Identifying top 20 equities by traded value to spot institutional movement.
+
+<img width="728" height="395" alt="image" src="https://github.com/user-attachments/assets/c6a33711-734d-48e7-b285-f1239d59aced" />
+
 
 > 🔗 **[View Live Power BI Dashboard Preview](https://www.google.com/search?q=%23)** *(Replace with your link)*
 
